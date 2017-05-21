@@ -10,5 +10,4 @@ This repository contains the specifications.
 - [包结构规范](package.md) <span class="std-rec">[1.1]</span>
 - [react编码规范](react-style-guide.md) <span class="std-rec">[draft]</span>
 
-
 Lint and fix tool：[FECS](http://fecs.baidu.com/)
